@@ -1,0 +1,35 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lax28",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "body-parser": "^1.20.0",
+    "git": "^0.1.5",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lax28/testheroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lax28/testheroku/issues"
+  },
+  "homepage": "https://github.com/Lax28/testheroku#readme",
+  "description": ""
+}
